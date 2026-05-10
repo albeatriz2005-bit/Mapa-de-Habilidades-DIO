@@ -28,7 +28,6 @@ Nesta fase inicial, organizamos as habilidades em diferentes dimensões:
 - Estatística e Probabilidade  
 - Machine Learning (supervisionado e não supervisionado)  
 - Git e GitHub para versionamento e portfólio  
-- ### (adicione aqui se quiser incluir Excel ou outras ferramentas específicas)  
 
 **Competências Interpessoais**
 - Comunicação clara (preferência por pessoas)  
@@ -39,7 +38,7 @@ Nesta fase inicial, organizamos as habilidades em diferentes dimensões:
 **Competências Criativas**
 - Storytelling com dados  
 - Visualização clara e impactante  
-- ### (adicione aqui se quiser incluir maquiagem, dança, pintura ou outras competências pessoais)  
+
 
 **💡 Papel da IA nesta etapa:**  
 Ferramentas como **Copilot** podem apoiar na identificação de competências, sugerindo trilhas de estudo, organizando cronogramas e até simulando entrevistas técnicas.
